@@ -12,7 +12,9 @@ A bulleted list of skills students require to learn and understand the lesson pl
 
 ## Objectives
 
-It’s recommended that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the student can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. **Correct**
+It’s recommended that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the student can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. 
+
+**Correct**
 
 *   Students will be able to identify the files required to make a theme.
 
